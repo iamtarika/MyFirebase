@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "158407505609",
+    "firebase_url": "https://realtimedatabase-80d56.firebaseio.com",
+    "project_id": "realtimedatabase-80d56",
+    "storage_bucket": "realtimedatabase-80d56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158407505609:android:98e4fbe07aa3f7c4",
+        "android_client_info": {
+          "package_name": "com.example.tarika.realtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158407505609-c9ceg3tfes0ttgl0qq7eb31hualgn4v7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tarika.realtimedatabase",
+            "certificate_hash": "5b324d9657fd5e72ec077085c7956304db2e1ed1"
+          }
+        },
+        {
+          "client_id": "158407505609-rhn9snni30lse4re8fqnvhqhkdg3a1vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkA0Xs4PlHXpG2yHVrfKqnICxZcqoHujM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158407505609-rhn9snni30lse4re8fqnvhqhkdg3a1vc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158407505609:android:2822d65e2da6a973",
+        "android_client_info": {
+          "package_name": "com.example.tarika.myfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158407505609-eec8lnk1iovui1aofthl4jdddkd7drbh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tarika.myfirebase",
+            "certificate_hash": "5b324d9657fd5e72ec077085c7956304db2e1ed1"
+          }
+        },
+        {
+          "client_id": "158407505609-rhn9snni30lse4re8fqnvhqhkdg3a1vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkA0Xs4PlHXpG2yHVrfKqnICxZcqoHujM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158407505609-rhn9snni30lse4re8fqnvhqhkdg3a1vc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
